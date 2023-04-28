@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#include "41.h"
+#include "41_2.h"
 #define LEN2 30
 
 int length(char arr[])
