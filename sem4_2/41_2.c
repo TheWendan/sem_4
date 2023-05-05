@@ -50,3 +50,13 @@ int quanity(int a) // число нечетных бит
     }
     return count;
 }
+
+void scan(char x[])
+{
+    char c; short i = 0;
+    while((c = getchar()) != '\n')
+    {
+        x[i] = c; 
+        i++;
+    }
+}
